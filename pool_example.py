@@ -1,6 +1,8 @@
 # Feel free to share, modify, copy. I retain no rights to this code. -James Whitehead
 # Let me know if you have any questions at james.whitehead490@gmail.com
 
+# This code was tested using python 2.7
+
 # This program is a demonstration of how to perform parallel operations on numpy array elements
 # While python can perform concurrent operations, it cannot share work across multiple CPUs (parallel). To do this,
 # we must use a library written in a language than can.
